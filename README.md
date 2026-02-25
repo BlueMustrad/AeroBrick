@@ -20,9 +20,7 @@ And in Bambu Studio for 3D printing!
 
 
 To go with it you also need these PCBs:
-<img width="1347" height="1004" alt="image" src="https://github.com/user-attachments/assets/75e8d2b3-ce01-4749-bfd3-f37cde60a86f" />
 
-<img width="837" height="1366" alt="image" src="https://github.com/user-attachments/assets/044f0df2-81f0-4b70-b6ee-84e907231b94" />
+<img width="1927" height="1448" alt="image" src="https://github.com/user-attachments/assets/5841b5e7-2d23-4ca6-8270-da0a2edd3e1e" />
 
-
-
+<img width="1053" height="1540" alt="image" src="https://github.com/user-attachments/assets/b6e6e4d8-1fd3-46f6-98a5-1f42c0222839" />
