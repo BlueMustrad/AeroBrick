@@ -1,9 +1,9 @@
 # AeroBrick
-A fully open source and easily made, futuristic air quality monitor featuring PM, CO2, VOC, Temp, Pressure, Humidity and Chemical moniters.
+A fully open-source and easy-to-build air-quality monitor designed for workshops, maker spaces, and home labs. It continuously tracks particulate matter (PM1–PM10), CO₂, VOCs, temperature, humidity, pressure, and hazardous chemicals, turning the air into actionable data.
 
-As someone whos always working on a project, there are always long-term safety concerns involved with fumes, from say 3d printing or soldering, being a real concern. You can spend a couple of days making this project, and BOOM, you have yourself a real-time monitor that warns you when things get concerning, enabling you to take quick action and fix it. Keep it right next to your workbench or near your printers, and it will keep track of everything you would want to know.
+Long-term exposure to fumes and poor ventilation is a real concern, especially in the form of soldering, 3D printing, or working with chemicals. As someone who is always working on a project, I come in contact with these more often than I should. AeroBrick solves this in that it's built to live right next to your workbench or printers, providing real-time monitoring and alerts when air quality begins to degrade, so you can act immediately instead of guessing.
 
-You can find these sorts of things all over Amazon or Walmart, but at what cost? Sometimes they will run you $300-400, only monitor simple things like temp and VOCs when there are so many other things in the air that are worth having insights about.
+Now you may ask, "Can't I buy one from Amazon and have it in my workshop within a day?" To which I say that these off-the-shelf air-quality monitors can cost $300–$400 and track only basic metrics like temperature or generic VOC levels. Whereas AeroBrick can be assembled in just a few days, while having a hell of a time, using readily available components, resulting in lab-grade monitoring at a fraction of the cost.
 
 
 # The Design
