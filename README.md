@@ -24,3 +24,23 @@ To go with it you also need these PCBs:
 <img width="1927" height="1448" alt="image" src="https://github.com/user-attachments/assets/5841b5e7-2d23-4ca6-8270-da0a2edd3e1e" />
 
 <img width="1053" height="1540" alt="image" src="https://github.com/user-attachments/assets/b6e6e4d8-1fd3-46f6-98a5-1f42c0222839" />
+
+# Bill of Materials
+
+| Item | Type | Quantity | Price (USD) | Item Total (USD) | Link |
+|------|------|----------|-------------|------------------|------|
+| T-Display S3 Long | Screen | 1 | $32.13 | $32.13 | [LilyGo](https://lilygo.cc/products/t-display-s3-long?bg_ref=yS2EfGn3rD) |
+| SEN54-SDN-T | Sensor | 1 | $14.78 | $14.78 | [Newark](https://www.newark.com/sensirion/sen54-sdn-t/humidity-sensor-20-80-rh-digital/dp/25AK2052?CMP=AFC-OP) |
+| BME280 | Sensor | 1 | $14.95 | $14.95 | [Adafruit](https://www.adafruit.com/product/2652) |
+| SEN0377 | Sensor | 1 | $35.85 | $35.85 | [Arrow](https://www.arrow.com/en/products/sen0377/dfrobot) |
+| SCD41 | Sensor | 1 | $28.99 | $28.99 | [Amazon](https://www.amazon.com/HiLetgo-Temperature-Humidity-Communication-Monitoring/dp/B0CDWXWCS5) |
+| Qwiic Cable (50mm) | Cable | 2 | $1.80 | $3.60 | [SparkFun](https://www.sparkfun.com/flexible-qwiic-cable-50mm.html) |
+| JST GHR-06V-S | Connector | 2 | $0.20 | $0.40 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-06V-S/807818) |
+| JST GHR-07V-S | Connector | 2 | $0.18 | $0.36 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-07V-S/807819) |
+| JST PHR-4 | Connector | 2 | $0.15 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-4/608606) |
+| Amphenol 68604-804HLF | Connector | 1 | $0.75 | $0.75 | [DigiKey](https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373) |
+| JST ASPHSPH24K51 | Connector | 4 | $0.40 | $1.60 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457) |
+| JST AGHGH28K51 | Connector | 12 | $0.45 | $5.40 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
+| Custom Made Mainboard | PCB | 5 | $8.00 | $40.00 | N/A: JLCPCB, includes all pick and place components |
+| Custom Made Breakout Board | PCB | 5 | $4.00 | $20.00 | N/A: JLCPCB, includes all pick and place components |
+| **Total** | | | | **$199.11** | |
