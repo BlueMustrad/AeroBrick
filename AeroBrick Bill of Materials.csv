@@ -1,0 +1,26 @@
+Item,Type,Quantity,Price (USD),Item total (USD),Link
+"T-Display S3 Long",Screen,1,$32.13,$32.13,https://lilygo.cc/products/t-display-s3-long?bg_ref=yS2EfGn3rD
+SEN54-SDN-T,Sensor,1,$14.78,$14.78,https://www.newark.com/sensirion/sen54-sdn-t/humidity-sensor-20-80-rh-digital/dp/25AK2052?CMP=AFC-OP
+BME280,Sensor,1,$14.95,$14.95,https://www.adafruit.com/product/2652 
+SEN0377,Sensor,1,$35.85,$35.85,https://www.arrow.com/en/products/sen0377/dfrobot?region=nac&utm_campaign=octopart_2022&utm_content=inv_listing&utm_currency=USD&utm_keyword=SEN0377&utm_medium=aggregator&utm_source=octopart
+SCD41,Sensor,1,$28.99,$28.99,https://www.amazon.com/HiLetgo-Temperature-Humidity-Communication-Monitoring/dp/B0CDWXWCS5
+Qwiic Cable (50mm),Cable,2,$1.80,$3.60,https://www.sparkfun.com/flexible-qwiic-cable-50mm.html
+JST GHR-06V-S,Connector,2,$0.20,$0.40,https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-06V-S/807818
+JST GHR-07V-S,Connector,2,$0.18,$0.36,https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-07V-S/807819
+JST PHR-4,Connector,2,$0.15,$0.30,https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-4/608606
+Amphenol 68604-804HLF,Connector,1,$0.75,$0.75,https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373?curr=usd&utm_campaign=buynow&utm_medium=aggregator&utm_source=octopart
+JST ASPHSPH24K51,Connector,4,$0.40,$1.60,https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457?curr=usd&utm_campaign=buynow&utm_medium=aggregator&utm_source=octopart
+JST AGHGH28K51,Connector,12,$0.45,$5.40,https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448?curr=usd&utm_campaign=buynow&utm_medium=aggregator&utm_source=octopart
+Custom Made Mainboard,PCB,5,$8.00,$40.00,"N/A on JLC PCB, icludes all the pick and place components"
+Custom Made Breakout Board,PCB,5,$4.00,$20.00,N/A: on JLC PCB
+,,,,$199.11,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,, ,
