@@ -52,6 +52,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 
 **Additional Considerations:**
 - Screws
-- 3D-printing filament
+- 3D-printing Filament
 - Heat-set Inserts
 - Solder Paste
+- Isopropyl Alcohol
