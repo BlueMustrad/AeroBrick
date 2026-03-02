@@ -47,7 +47,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$7–12 for stencil) |
 | Mainboard Components | Components | — | — | $22.00 | See PCB files for details |
 | Breakout Board Components | Components | — | — | $6.00 | See PCB files for details |
-| **Total** | | | | **$193.13** | |
+| **Total (as of 02/26)** | | | | **$193.13** | |
 
 
 **Additional Considerations:**
