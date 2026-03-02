@@ -27,20 +27,31 @@ To go with it you also need these PCBs:
 
 # Bill of Materials
 
+Disclaimer: These prices do not factor in shipping or taxes!
+
 | Item | Type | Quantity | Price (USD) | Item Total (USD) | Link |
 |------|------|----------|-------------|------------------|------|
-| T-Display S3 Long | Screen | 1 | $32.13 | $32.13 | [LilyGo](https://lilygo.cc/products/t-display-s3-long?bg_ref=yS2EfGn3rD) |
-| SEN54-SDN-T | Sensor | 1 | $14.78 | $14.78 | [Newark](https://www.newark.com/sensirion/sen54-sdn-t/humidity-sensor-20-80-rh-digital/dp/25AK2052?CMP=AFC-OP) |
-| BME280 | Sensor | 1 | $14.95 | $14.95 | [Adafruit](https://www.adafruit.com/product/2652) |
-| SEN0377 | Sensor | 1 | $35.85 | $35.85 | [Arrow](https://www.arrow.com/en/products/sen0377/dfrobot) |
+| T-Display S3 Long | Screen | 1 | $32.13 | $32.13 | [LilyGo](https://lilygo.cc/en-us/products/t-display-s3-long?variant=44211063390389) |
+| SEN54-SDN-T | Sensor | 1 | $26.85 | $26.85 | [DigiKey](https://www.digikey.com/en/products/detail/sensirion-ag/SEN54-SDN-T/15903868) |
+| BME280 | Sensor | 1 | $14.95 | $14.95 | [DigiKey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/2652/5604372) |
+| SEN0377 | Sensor | 1 | $39.90 | $39.90 | [DigiKey](https://www.digikey.com/en/products/detail/dfrobot/SEN0377/15848107) |
 | SCD41 | Sensor | 1 | $28.99 | $28.99 | [Amazon](https://www.amazon.com/HiLetgo-Temperature-Humidity-Communication-Monitoring/dp/B0CDWXWCS5) |
-| Qwiic Cable (50mm) | Cable | 2 | $1.80 | $3.60 | [SparkFun](https://www.sparkfun.com/flexible-qwiic-cable-50mm.html) |
-| JST GHR-06V-S | Connector | 2 | $0.20 | $0.40 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-06V-S/807818) |
-| JST GHR-07V-S | Connector | 2 | $0.18 | $0.36 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-07V-S/807819) |
-| JST PHR-4 | Connector | 2 | $0.15 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-4/608606) |
-| Amphenol 68604-804HLF | Connector | 1 | $0.75 | $0.75 | [DigiKey](https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373) |
-| JST ASPHSPH24K51 | Connector | 4 | $0.40 | $1.60 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457) |
-| JST AGHGH28K51 | Connector | 12 | $0.45 | $5.40 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
-| Custom Made Mainboard | PCB | 5 | $8.00 | $40.00 | N/A: JLCPCB, includes all pick and place components |
-| Custom Made Breakout Board | PCB | 5 | $4.00 | $20.00 | N/A: JLCPCB, includes all pick and place components |
-| **Total** | | | | **$199.11** | |
+| Qwiic Cable (50mm) | Cable | 2 | $1.50 | $3.00 | [DigiKey](https://www.digikey.com/en/products/detail/sparkfun-electronics/17260/13629028) |
+| JST GHR-06V-S | Connector | 2 | $0.15 | $0.30 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-06V-S/807818) |
+| JST GHR-07V-S | Connector | 2 | $0.14 | $0.28 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/GHR-07V-S/807819) |
+| JST PHR-4 | Connector | 2 | $0.10 | $0.20 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/PHR-4/608606) |
+| Amphenol 68604-804HLF | Connector | 1 | $0.53 | $0.53 | [DigiKey](https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373) |
+| JST ASPHSPH24K51 | Connector | 4 | $0.33 | $1.32 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457) |
+| JST AGHGH28K51 | Connector | 12 | $0.39 | $4.68 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
+| Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$7–12 for stencil) |
+| Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$7–12 for stencil) |
+| Mainboard Components | Components | — | — | $22.00 | See PCB files for details |
+| Breakout Board Components | Components | — | — | $6.00 | See PCB files for details |
+| **Total** | | | | **$193.13** | |
+
+
+**Additional Considerations:**
+- Screws
+- 3D-printing filament
+- Heat-set Inserts
+- Solder Paste
