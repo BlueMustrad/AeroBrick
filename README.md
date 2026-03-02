@@ -55,4 +55,5 @@ Disclaimer: These prices do not factor in shipping or taxes!
 - 3D-printing Filament
 - Heat-set Inserts
 - Solder Paste
+- Superglue
 - Isopropyl Alcohol
