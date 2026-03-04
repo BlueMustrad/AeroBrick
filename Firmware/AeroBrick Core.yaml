@@ -1,6 +1,6 @@
 #Define Project
 substitutions:
-  name: halo
+  name: aerobrick
   version: "26.1.9.2"
   device_description: ${name} - v${version}.
 
@@ -340,7 +340,7 @@ sensor:
 
   - platform: template
     name: "Computed AQI"
-    id: computed_halo_aqi
+    id: computed_aerobrick_aqi
     unit_of_measurement: "AQI"
     accuracy_decimals: 0
     device_class: "aqi"
@@ -708,7 +708,7 @@ sensor:
                 } else {
                   aqi = 500.0;
                 }
-                id(computed_halo_aqi).publish_state((int)aqi);
+                id(computed_aerobrick_aqi).publish_state((int)aqi);
 
                 // Return color based on AQI
                 if (aqi <= 50) {
@@ -946,7 +946,7 @@ text_sensor:
 light:
   # - platform: esp32_rmt_led_strip
   #   id: rgb_light
-  #   name: "Halo"
+  #   name: "aerobrick"
   #   pin: GPIO47
   #   rgb_order: GRB
   #   default_transition_length: 2s
@@ -965,7 +965,7 @@ light:
   #         width: 50
 
   - platform: esp32_rmt_led_strip
-    name: Halo
+    name: aerobrick
     id: rgb_light
     rgb_order: GRB
     pin: GPIO47
