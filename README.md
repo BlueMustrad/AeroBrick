@@ -50,7 +50,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | **Total (as of 02/26)** | | | | **$193.13** | |
 
 
-**Additional Considerations (See [this](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
+**Additional Considerations (See [Extra_Parts.md](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
 - Screws
 - 3D-printing Filament
 - Heat-set Inserts
