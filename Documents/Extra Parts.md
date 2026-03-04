@@ -30,5 +30,5 @@
 
 | Part | Notes | Suggested |
 |------|-------|-----------|
-| VHB Double Sided Tape | Non-conductive tape, 10mm in width and 1.1mm in thickness | [Amazon URL](#) |
-| Cyanoacrylate (CA) Glue | A gel is recommended as it provides better control and is less likely to drip | [Amazon URL](#) |
+| VHB Double Sided Tape | Non-conductive tape, 10mm in width and 1.1mm in thickness | [Amazon URL](https://www.amazon.com/Double-Mounting-0-025in-Strong-Adhesive/dp/B0CHDVNS5T/ref=sr_1_6?crid=28O8K10FVQ6Q7&dib=eyJ2IjoiMSJ9.efnKFksw8jOfjY_RtoUZKz9AE63_Q8Uv9tKcy8fzGlxZgeyivwFukWb3Y8v6-HOguNLRgstdr5yIsPlKXr7TBS_jcu4cC5CA7zrttp0ZshSKKdy--rQO76w6fnT9JTr5fz8diROyJkQ6MTC837h_j31KaMC-9kd0dL3s6vdyaT1lVgYo94_uj9tTzHPJzjjtPTtErnxhReSflyCdL6KAno8pRbUQLjHLo7JzBW2D5HWAVaetXyYMwoSSQtWO2GKF2A1B2WTI4uHsxMVbugOJr5xSYexl5xskeGhznSL4dIo.koHCiVxDtyPdqM5giLlqCR3Kosa5SKJiz4DUY0prcDc&dib_tag=se&keywords=3M+Double+Sided+Tape%2C+Waterproof+Heavy+Duty+Foam+Tape%2C+36FT+Length%2C+0.4+Inch+Width+for+Car%2C+Home+Decor%2C+Office+Decor&nsdOptOutParam=true&qid=1772648152&s=industrial&sprefix=%2Cindustrial%2C236&sr=1-6) |
+| Cyanoacrylate (CA) Glue | A gel is recommended as it provides better control and is less likely to drip | [Amazon URL](https://www.amazon.com/Super-Glue-15185-12-Pack-07oz/dp/B004YEN37K?th=1) |
