@@ -1,6 +1,6 @@
 esphome:
-  name: halo-v1
-  friendly_name: Halo Air Quality Sensor
+  name: aerobrick-v1
+  friendly_name: AeroBrick Air Quality Sensor
   platformio_options:
     upload_speed: 921600
     build_unflags: -Werror=all
@@ -9,11 +9,11 @@ esphome:
     board_build.f_cpu: 240000000L
 
   project:
-    name: "yashmulgaonkar.Halo-v1"
+    name: "BlueMustrad.AeroBrick-v1"
     version: "${version}"
 
 dashboard_import:
-  package_import_url: github://yashmulgaonkar/halo/TFT_LCD/T-Display-Long/V1/Firmware/ESPHome/Halo-v1.yaml@main
+  package_import_url: https://github.com/BlueMustrad/AeroBrick/blob/main/Firmware/AeroBrick.yaml@main
   import_full_config: true
 
 ota:
@@ -25,7 +25,7 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Halo Hotspot"
+    ssid: "AeroBrick Hotspot"
 
 improv_serial:
 
@@ -33,7 +33,7 @@ web_server:
   version: 3
 
 packages:
-  core: !include Halo-v1-Core.yaml
+  core: !include AeroBrick Core.yaml
 
 # Add local timezone for development since Docker container not set to local timezone
 time:
