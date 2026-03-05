@@ -45,8 +45,8 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | JST AGHGH28K51 | Connector | 12 | $0.39 | $4.68 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
 | Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
 | Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
-| Mainboard Components | Components | — | — | $21.00 | See PCB files for details |
-| Breakout Board Components | Components | — | — | $7.00 | See PCB files for details |
+| Mainboard Components | Components | — | — | $21.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Main%20Board/AeroBrick%20Mainboard%20BOM.csv) for details |
+| Breakout Board Components | Components | — | — | $7.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Breakout%20Board/AeroBrick%20Breakout%20BOM.csv) for details |
 | **Total (as of 02/26)** | | | | **$193.13** | |
 | | | | | | |
 | +$30 for stencils, +$100 for shipping/taxes/tariffs, +$15 for solder paste | | | | $338.13 | | 
