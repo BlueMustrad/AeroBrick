@@ -7,26 +7,25 @@ Now you may ask, "Can't I buy one from Amazon and have it in my workshop within 
 
 
 # The Design
+Go to the [Images folder](https://github.com/BlueMustrad/AeroBrick/tree/main/Images) for all pictures!
 
-
-Here are some photos of the model in Fusion:
+### Here are some photos of the model in Fusion:
 <img width="2058" height="1477" alt="image" src="https://github.com/user-attachments/assets/6f8b4521-2b88-47db-9d11-0ff109118545" />
 
 <img width="2708" height="1620" alt="image" src="https://github.com/user-attachments/assets/20bed8c9-5469-4a17-81cb-1681dd9536e2" />
 
 
-And in Bambu Studio for 3D printing!
+### And in Bambu Studio for 3D printing!
 <img width="1986" height="1293" alt="image" src="https://github.com/user-attachments/assets/481ceb14-7f12-42ee-b89b-72dbce122ccd" />
 
 
-To go with it you also need these PCBs:
+### To go with it you also need these PCBs:
 
 <img width="1927" height="1448" alt="image" src="https://github.com/user-attachments/assets/5841b5e7-2d23-4ca6-8270-da0a2edd3e1e" />
 
 <img width="1053" height="1540" alt="image" src="https://github.com/user-attachments/assets/b6e6e4d8-1fd3-46f6-98a5-1f42c0222839" />
 
 # Bill of Materials
-
 Disclaimer: These prices do not factor in shipping or taxes!
 
 | Item | Type | Quantity | Price (USD) | Item Total (USD) | Link |
@@ -52,7 +51,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | +$30 for stencils, +$100 for shipping/taxes/tariffs, +$15 for solder paste | | | | $338.13 | | 
 
 
-**Additional Considerations (See [Extra Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
+### **Additional Considerations (See [Extra Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
 - Screws
 - 3D-printing Filament
 - Heat-set Inserts
