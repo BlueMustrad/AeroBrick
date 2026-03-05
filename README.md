@@ -43,11 +43,13 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | Amphenol 68604-804HLF | Connector | 1 | $0.53 | $0.53 | [DigiKey](https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373) |
 | JST ASPHSPH24K51 | Connector | 4 | $0.33 | $1.32 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457) |
 | JST AGHGH28K51 | Connector | 12 | $0.39 | $4.68 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
-| Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$7–12 for stencil) |
-| Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$7–12 for stencil) |
-| Mainboard Components | Components | — | — | $22.00 | See PCB files for details |
-| Breakout Board Components | Components | — | — | $6.00 | See PCB files for details |
+| Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
+| Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
+| Mainboard Components | Components | — | — | $21.00 | See PCB files for details |
+| Breakout Board Components | Components | — | — | $7.00 | See PCB files for details |
 | **Total (as of 02/26)** | | | | **$193.13** | |
+| | | | | | |
+| +$30 for stencils, +$100 for shipping/taxes/tariffs, +$15 for solder paste | | | | $338.13 | | 
 
 
 **Additional Considerations (See [Extra_Parts.md](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
