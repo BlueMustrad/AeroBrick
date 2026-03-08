@@ -23,7 +23,7 @@ esp32_improv:
   authorizer: none
 
 external_components:
-  - source: github://yashmulgaonkar/esphome-components
+  - source: github://BlueMustard/esphome-components
     components: [axs15231, sy6970]
 
   - source: github://pr#7770 # RMT driver, remove rmt_channel when using esp-idf
@@ -99,7 +99,7 @@ interval:
               id: wifi_stat
               text_color: my_green
           - lvgl.widget.show:
-              id: ym_image              
+              id: maker_logo              
         else:
           - lvgl.widget.update:
               id: wifi_stat
@@ -209,8 +209,8 @@ web_server:
   port: 80
 
 image:
-  - file: https://yashmulgaonkar.github.io/assets/YM.png
-    id: ym_logo
+  - file: https://github.com/BlueMustrad/AeroBrick/blob/main/Assets/maker_logo.png
+    id: maker_logo
     resize: 25x25
     type: RGB565
     transparency: alpha_channel
@@ -993,8 +993,8 @@ lvgl:
       scrollbar_mode: "OFF"
       widgets:
         - image:
-            id: ym_image          
-            src: ym_logo
+            id: maker_logo          
+            src: maker_logo
             align: CENTER
             x: 80
             y: -309
