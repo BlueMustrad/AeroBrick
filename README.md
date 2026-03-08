@@ -20,10 +20,9 @@ Go to the [Images folder](https://github.com/BlueMustrad/AeroBrick/tree/main/Ima
 
 
 ### To go with it you also need these [PCBs](https://github.com/BlueMustrad/AeroBrick/tree/main/PCBs%20and%20Circuitry):
+<img width="1096" height="845" alt="image" src="https://github.com/user-attachments/assets/d80cd3bc-94cc-47ca-b328-727ad5555abe" />
 
-<img width="1927" height="1448" alt="image" src="https://github.com/user-attachments/assets/5841b5e7-2d23-4ca6-8270-da0a2edd3e1e" />
-
-<img width="1053" height="1540" alt="image" src="https://github.com/user-attachments/assets/b6e6e4d8-1fd3-46f6-98a5-1f42c0222839" />
+<img width="1096" height="1543" alt="image" src="https://github.com/user-attachments/assets/5a6b3007-7fb0-46ea-95f1-de40fd180068" />
 
 # Bill of Materials
 Disclaimer: These prices do not factor in shipping or taxes!
