@@ -1,9 +1,9 @@
 
 
-# Extra Parts BOM
+# Other Parts BOM
 
 ### 3D Printed Parts
-Ideally print in ASA, if not, PETG is the next best. Everything can be printed with 0.2 mm layers, 2 walls and 15% gyroid infill
+Ideally print in ASA, if not, PETG is the next best. Everything can be printed with 0.2 mm layers, 2 walls and 20-25% gyroid infill
 | Part | Quantity | Notes |
 |------|----------|-------|
 | Main Housing | 1 | Supports not required but recomended |
