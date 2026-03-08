@@ -50,7 +50,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | +$30 for stencils, +$100 for shipping/taxes/tariffs, +$15 for solder paste | | | | $338.13 | | 
 
 
-### **Additional Considerations (See [Extra Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
+### **Additional Considerations (See [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
 - Screws
 - 3D-printing Filament
 - Heat-set Inserts
