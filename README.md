@@ -45,12 +45,16 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
 | Mainboard Components | Components | — | — | $21.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Main%20Board/AeroBrick%20Mainboard%20BOM.csv) for details |
 | Breakout Board Components | Components | — | — | $7.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Breakout%20Board/AeroBrick%20Breakout%20BOM.csv) for details |
-| **Total (as of 02/26)** | | | | **$193.13** | |
-| | | | | | |
-| +$30 for stencils, +$100 for shipping/taxes/tariffs, +$15 for solder paste | | | | $338.13 | | 
+| Hardware Total (as of 02/26) | | | | $193.13 | |
 
+| Item | Total Price | Description |
+| ---- | ----------- | ----------- |
+| PCB Stencils | $28 | To prepare both sides of both PCBs |
+| Solder Paste | $14 | Used in attaching components to the PCB |
+| Hidden Costs | $100 | Shipping/taxes/tariffs :( |
+| **Final Total (as of 02/26)** | | **$335.13** |
 
-### **Additional Considerations (See [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details):**
+### **Additional Considerations (see [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details), not included in the BOM:**
 - Screws
 - 3D-printing Filament
 - Heat-set Inserts
