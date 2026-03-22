@@ -52,10 +52,10 @@ Disclaimer: These prices do not factor in shipping or taxes!
 
 | Item | Total Price | Description |
 | ---- | ----------- | ----------- |
-| Fasteners | $5.12 | Screws |
-| PCB Stencils | $17 | Used to add solder paste to the bare PCB |
-| Hidden Costs | ~$100 | Shipping/taxes/tariffs :( |
-| **Final Total (as of 02/26)** | | **$315.25** |
+| Fasteners | $5 | Screws |
+| PCB Stencils | $22.06 | Used to add solder paste to the bare PCB |
+| Hidden Costs | ~$125 | Shipping/taxes/tariffs :( |
+| **Final Total (as of 03/26)** | | **$347.19** |
 
 ### **Additional Considerations (see [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details), not included in the BOM:**
 - Screws
