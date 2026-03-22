@@ -12,17 +12,17 @@ Go to the [Images folder](https://github.com/BlueMustrad/AeroBrick/tree/main/Ima
 ## THE [FULL ASSEMBLY](https://github.com/BlueMustrad/AeroBrick/blob/main/AeroBrick%20Full%20Assembly.step)!!
 <img width="1668" height="1304" alt="Screenshot 2026-03-22 125132" src="https://github.com/user-attachments/assets/745a359d-7454-4d5d-8bad-371575fd02d6" />
 
-### Just the housing [Fusion](https://github.com/BlueMustrad/AeroBrick/tree/main/3D%20Files/f3d%20Files):
+### Just the housing in [Fusion](https://github.com/BlueMustrad/AeroBrick/tree/main/3D%20Files/f3d%20Files):
 <img width="2058" height="1477" alt="image" src="https://github.com/user-attachments/assets/6f8b4521-2b88-47db-9d11-0ff109118545" />
 
 <img width="2708" height="1620" alt="image" src="https://github.com/user-attachments/assets/20bed8c9-5469-4a17-81cb-1681dd9536e2" />
 
 
-### And the housing in [Bambu Studio](https://github.com/BlueMustrad/AeroBrick/tree/main/3D%20Files/3mf%20Files) for 3D printing!
+### And in [Bambu Studio](https://github.com/BlueMustrad/AeroBrick/tree/main/3D%20Files/3mf%20Files) for 3D printing!
 <img width="1986" height="1293" alt="image" src="https://github.com/user-attachments/assets/481ceb14-7f12-42ee-b89b-72dbce122ccd" />
 
 
-### To go with it you also need these [PCBs](https://github.com/BlueMustrad/AeroBrick/tree/main/PCBs%20and%20Circuitry):
+### To go with it, you also need these [PCBs](https://github.com/BlueMustrad/AeroBrick/tree/main/PCBs%20and%20Circuitry):
 <img width="1096" height="845" alt="image" src="https://github.com/user-attachments/assets/d80cd3bc-94cc-47ca-b328-727ad5555abe" />
 
 <img width="1096" height="1543" alt="image" src="https://github.com/user-attachments/assets/5a6b3007-7fb0-46ea-95f1-de40fd180068" />
@@ -44,18 +44,18 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | Amphenol 68604-804HLF | Connector | 1 | $0.53 | $0.53 | [DigiKey](https://www.digikey.com/en/products/detail/amphenol-fci/68604-804HLF/11606373) |
 | JST ASPHSPH24K51 | Connector | 4 | $0.33 | $1.32 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ASPHSPH24K51/6009457) |
 | JST AGHGH28K51 | Connector | 12 | $0.39 | $4.68 | [DigiKey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/AGHGH28K51/6009448) |
-| Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
-| Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ ~$10-15 for stencil) |
+| Custom Made Mainboard | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ $10-15 for stencil) |
+| Custom Made Breakout Board | PCB | 5 | $1.20 | $6.00 | JLCPCB (+ $10-15 for stencil) |
 | Mainboard Components | Components | — | — | $21.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Main%20Board/AeroBrick%20Mainboard%20BOM.csv) for details |
 | Breakout Board Components | Components | — | — | $7.00 | See [PCB files](https://github.com/BlueMustrad/AeroBrick/blob/main/PCBs%20and%20Circuitry/Breakout%20Board/AeroBrick%20Breakout%20BOM.csv) for details |
 | Hardware Total (as of 02/26) | | | | $193.13 | |
 
 | Item | Total Price | Description |
 | ---- | ----------- | ----------- |
-| PCB Stencils | $28 | To prepare both sides of both PCBs |
-| Solder Paste | $14 | Used in attaching components to the PCB |
-| Hidden Costs | $100 | Shipping/taxes/tariffs :( |
-| **Final Total (as of 02/26)** | | **$335.13** |
+| Fasteners | $5.12 | Screws |
+| PCB Stencils | $17 | Used to add solder paste to the bare PCB |
+| Hidden Costs | ~$100 | Shipping/taxes/tariffs :( |
+| **Final Total (as of 02/26)** | | **$315.25** |
 
 ### **Additional Considerations (see [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details), not included in the BOM:**
 - Screws
