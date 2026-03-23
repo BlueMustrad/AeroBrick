@@ -27,7 +27,7 @@ Go to the [Images folder](https://github.com/BlueMustrad/AeroBrick/tree/main/Ima
 
 <img width="1096" height="1543" alt="image" src="https://github.com/user-attachments/assets/5a6b3007-7fb0-46ea-95f1-de40fd180068" />
 
-# Bill of Materials
+# [Bill of Materials](https://github.com/BlueMustrad/AeroBrick/blob/main/AeroBrick%20Hardware%20BOM.csv)
 Disclaimer: These prices do not factor in shipping or taxes!
 
 | Item | Type | Quantity | Price (USD) | Item Total (USD) | Link |
