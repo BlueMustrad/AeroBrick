@@ -57,7 +57,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 | Hidden Costs | ~$125 | Shipping/taxes/tariffs :( |
 | **Final Total (as of 03/26)** | | **$347.19** |
 
-### **Additional Considerations (see [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/Extra%20Parts.md) for details), not included in the BOM:**
+### **Additional Considerations (see [Other Parts](https://github.com/BlueMustrad/AeroBrick/blob/main/README.md) for details), not included in the BOM:**
 - Screws
 - 3D-printing Filament
 - Heat-set Inserts
