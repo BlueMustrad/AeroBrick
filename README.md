@@ -52,7 +52,7 @@ Disclaimer: These prices do not factor in shipping or taxes!
 
 | Item | Total Price | Description |
 | ---- | ----------- | ----------- |
-| Fasteners | $5 | Screws |
+| Fasteners | $7 | Screws, heat-set inserts, bolts, and washers |
 | PCB Stencils | $22.06 | Used to add solder paste to the bare PCB |
 | Hidden Costs | ~$125 | Shipping/taxes/tariffs :( |
 | **Final Total (as of 03/26)** | | **$347.19** |
