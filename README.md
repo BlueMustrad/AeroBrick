@@ -27,6 +27,11 @@ Go to the [Images folder](https://github.com/BlueMustrad/AeroBrick/tree/main/Ima
 
 <img width="1096" height="1543" alt="image" src="https://github.com/user-attachments/assets/5a6b3007-7fb0-46ea-95f1-de40fd180068" />
 
+### [Schematic](https://github.com/BlueMustrad/AeroBrick/blob/main/Documents/AeroBrick%20Electrical%20Schematic.pdf)!
+![AeroBrick Electrical Schematic (2)_page-0001](https://github.com/user-attachments/assets/74b26845-0eaf-4d03-a3e4-eb100498e370)
+
+
+
 # [Bill of Materials](https://github.com/BlueMustrad/AeroBrick/blob/main/AeroBrick%20Hardware%20BOM.csv)
 Disclaimer: These prices do not factor in shipping or taxes!
 
